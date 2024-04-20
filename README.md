@@ -1,1 +1,1 @@
-# Just a sample function and test file for check the length of a meta title
+# Just a sample function and test for checking the length of a meta title
